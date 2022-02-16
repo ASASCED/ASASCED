@@ -4,7 +4,7 @@ import SoftwareDeveloper from 'happyProgrammer';
 class Bio extends SoftwareDeveloper {
   name     = 'Jesus Jimenez Cordero';
   title    = 'Software Engineer';
-  company  = 'Divelement | Remote';
+  company  = 'Anexinet';
   location = 'Mexico, Mexico';
 }
 ```
